@@ -276,6 +276,7 @@ body {
 
 .cardContent {
   border: 1px solid #e7e9fc;
+  border-top: none;
   display: flex;
   flex-direction: column;
   gap: 8px;
