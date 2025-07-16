@@ -16,12 +16,17 @@ body {
   padding: 0;
 }
 
+.container {
+  max-width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
 .header {
   display: flex;
   height: 72px;
   align-items: center;
   border: 1px solid #e7e9fc;
-  max-width: 1440px;
   margin: 0 auto;
 }
 
