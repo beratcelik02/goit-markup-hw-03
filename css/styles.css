@@ -19,7 +19,6 @@ body {
 .container {
   max-width: 1158px;
   margin: 0 auto;
-  padding: 0 15px;
 }
 
 .header {
@@ -49,7 +48,7 @@ body {
   list-style: none;
   display: flex;
   gap: 40px;
-  padding-left: 100px;
+  padding-left: 70px;
 }
 
 .menu a {
@@ -67,7 +66,7 @@ body {
 
 .communication {
   margin-left: auto;
-  padding-right: 150px;
+  padding-right: 100px;
 }
 
 .communication ul {
